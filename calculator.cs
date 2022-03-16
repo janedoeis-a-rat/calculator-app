@@ -1,4 +1,6 @@
-﻿using System;
+//NIM  : 21.11.4352
+//NAMA : Reksa Panduasa
+using System;
 
 namespace Tugas_1
 {
